@@ -10,7 +10,7 @@
 
 ## Overview
 
-Memorabilia Vault is an interactive web application designed for baseball memorabilia collectors. The app allows users to catalog their collection, receive instant value estimates based on item type and condition, and manage their inventory through a clean, professional dashboard. Built as a final project for DATA1101 at Fairfield University.
+Memorabilia Vault is an interactive web application designed for baseball memorabilia collectors. The app allows users to catalog their collection, receive instant value estimates based on item type and condition, and manage their inventory through a clean, professional dashboard. Built as a final project for DATA4000 at Fairfield University.
 
 ---
 
