@@ -16,14 +16,14 @@ Memorabilia Vault is an interactive web application designed for baseball memora
 
 ## Live App
 
-🔗 [Launch Memorabilia Vault](#) ← replace with your Streamlit Cloud link
+🔗 http://localhost:8501/ ← Link To app 
 
 ---
 
 ## Student
 
 **Matthew Burlew**  
-Fairfield University — DATA1101
+Fairfield University — DATA4000
 
 ---
 
